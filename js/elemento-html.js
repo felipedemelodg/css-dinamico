@@ -1,6 +1,6 @@
-const mover = document.getElementById('mover')
-const arredonda = document.getElementById('arredonda')
-const cor = document.getElementById('muda-cor')
+const mover = document.getElementById('position')
+const arredonda = document.getElementById('radius')
+const cor = document.getElementById('color')
 const resultado = document.getElementById('resultado')
 
 export const elem = {
